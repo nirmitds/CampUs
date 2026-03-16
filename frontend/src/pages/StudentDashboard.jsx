@@ -40,7 +40,7 @@ onMouseLeave={()=>setHover(null)}
 onClick={()=>navigate("/student/exchange")}
 >
 🔁
-<p>Exchange</p>
+<p>Market</p>
 </div>
 
 

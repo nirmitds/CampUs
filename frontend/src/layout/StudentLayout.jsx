@@ -91,7 +91,7 @@ to="/student/exchange"
 onMouseEnter={()=>setHover("exchange")}
 onMouseLeave={()=>setHover(null)}
 >
-🔁 Exchange
+🔁 Market
 </NavLink>
 
 

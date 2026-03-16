@@ -200,7 +200,7 @@ return(
 style={activeTab==="exchange"?activeTabBtn:tabBtn}
 onClick={()=>setActiveTab("exchange")}
 >
-Exchange
+Add Requests
 </button>
 
 <button

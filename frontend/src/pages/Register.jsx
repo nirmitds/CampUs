@@ -221,7 +221,7 @@ paddingRight:"40px"
 const eyeStyle={
 position:"absolute",
 right:"12px",
-top:"50%",
+top:"37%",
 transform:"translateY(-50%)",
 cursor:"pointer"
 }
